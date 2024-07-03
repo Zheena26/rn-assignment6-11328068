@@ -22,6 +22,13 @@ HomeScreen: Renders product grid, handles adding products to cart.
 CartScreen: Displays selected items from cart, supports item removal.
 * Context API: Manages cart state with CartContext to share data across components.
 # Screenshots
+![Screenshot (107)](https://github.com/Zheena26/rn-assignment6-11328068/assets/169994345/cf82ba63-3734-4994-9325-c33269b399c1)
+![Screenshot (108)](https://github.com/Zheena26/rn-assignment6-11328068/assets/169994345/8374141a-f023-4309-83d0-144134cbceb3)
+![Screenshot (109)](https://github.com/Zheena26/rn-assignment6-11328068/assets/169994345/73ccc892-6c36-4e9b-a630-cf79947e0f79)
+![Screenshot (111)](https://github.com/Zheena26/rn-assignment6-11328068/assets/169994345/f4e80487-0540-4afa-b8c3-fb17b4318ec2)
+![Screenshot (112)](https://github.com/Zheena26/rn-assignment6-11328068/assets/169994345/753d3bc5-c44a-48a6-8328-c566bf678f48)
+![Screenshot (113)](https://github.com/Zheena26/rn-assignment6-11328068/assets/169994345/629ca3de-f24f-447c-910e-a7477b10227a)
+![Screenshot (114)](https://github.com/Zheena26/rn-assignment6-11328068/assets/169994345/e099372c-4f3f-4a85-84c7-f43eec13dff8)
 
 # Installation
 To run the app locally:
